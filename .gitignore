@@ -1,0 +1,9 @@
+/build/
+/node_modules/
+/release/
+/release-*/
+*.log
+__pycache__/
+*.pyc
+.playwright-cli/
+/cmd/copilot-ready/*.syso

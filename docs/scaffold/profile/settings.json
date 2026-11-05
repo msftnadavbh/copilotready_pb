@@ -1,0 +1,9 @@
+{
+  "autoUpdate": true,
+  "defaultMode": "interactive",
+  "defaultPermissionMode": "manual",
+  "model": "auto",
+  "autoTier": "balance",
+  "memory": false,
+  "continueOnAutoMode": false
+}
